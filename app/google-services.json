@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098591417409",
+    "project_id": "autobox-f145d",
+    "storage_bucket": "autobox-f145d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098591417409:android:a9dfcb82df7de91faac2c0",
+        "android_client_info": {
+          "package_name": "com.labanasanga.autobox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2OJfD1mc4nLK34-Mnj7YTs2Fxf6PHAJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
